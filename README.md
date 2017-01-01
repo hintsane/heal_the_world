@@ -1,2 +1,2 @@
-# heal_the_world
-java_example_for_AWS_pipeline
+# heal_the_wotld
+This is Pekka's heal the world git hub
